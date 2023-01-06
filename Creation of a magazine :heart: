@@ -1,0 +1,20 @@
+
+***
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Creation of a Magazine.</title>
+    </head>
+    <body>
+        <div class="notes">
+            <p>
+            This is meant to polish HTML and CSS skills and improve on JS skills.
+It is just meant for fun and learning also.
+It is a way of improving being a front-end developer.
+            </p>
+        </div>
+    </body>
+</html>
+***
